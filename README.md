@@ -33,7 +33,7 @@ My personal portfolio website showcasing my projects, skills, and learning journ
 
 ## 📫 Contact Me
 - Email: ariefnurazams@gmail.com  
-- LinkedIn: [linkedin.com/in/arief-azam](https://www.linkedin.com/in/arief-azam/)
+- LinkedIn: [linkedin.com/in/arief-azams](https://www.linkedin.com/in/arief-azams/)
 
 ---
 
