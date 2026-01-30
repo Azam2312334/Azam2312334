@@ -11,6 +11,14 @@ I’m a Software Engineering student and web/mobile developer passionate about b
 
 ---
 
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Azam2312334&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Azam2312334&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Azam2312334&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
 ## 💻 Featured Projects
 
 ### Portfolio Website
@@ -28,6 +36,8 @@ A community sports platform I’m developing for players to find matches, join e
 ### Solo Discipline System – Personal Project
 A free web app for gym-goers to track personal records and connect with friends. It includes a few gamified features to help users stay motivated. Built with React, it’s a personal project where I’m learning front-end development and experimenting with user-friendly features.  
 [Live Demo](https://solo-discipline-system.vercel.app/)
+
+
 
 
 
